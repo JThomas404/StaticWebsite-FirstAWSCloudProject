@@ -405,12 +405,9 @@ This project demonstrates proficiency in:
 
 ---
 
-**Project Repository**: [GitHub - QuantumEdge Systems AWS Deployment](https://github.com/username/quantumedge-aws-static-website)
-
-**Live Demo**: [https://quantumedge.com](https://quantumedge.com)
-
-**Architecture Diagram**: [AWS Architecture Diagram](https://quantumedge.com/architecture)
-
-**Cost Calculator**: [AWS Pricing Calculator - QuantumEdge](https://calculator.aws/#/addService)
+- **Project Repository**: [GitHub - QuantumEdge Systems AWS Deployment](https://github.com/username/quantumedge-aws-static-website)
+- **Live Demo**: [https://quantumedge.com](https://quantumedge.com)
+- **Architecture Diagram**: [AWS Architecture Diagram](https://quantumedge.com/architecture)
+- **Cost Calculator**: [AWS Pricing Calculator - QuantumEdge](https://calculator.aws/#/addService)
 
 _This project showcases enterprise-level cloud architecture skills and demonstrates the ability to deliver cost-effective, scalable solutions using AWS managed services for QuantumEdge Systems' advanced technology and AI solutions platform._
